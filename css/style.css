@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+}
+h1{
+    font-family: "Anton", sans-serif;
+    font-size: 3rem;
+}
+.btn:hover{
+    background-color: green;
+    color: #fff;
+    border: transparent;
+}
